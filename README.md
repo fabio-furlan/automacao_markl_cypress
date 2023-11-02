@@ -1,2 +1,2 @@
-# teste-automatizado-markl
-Teste Automatizado da aplicação MarkL
+# Automação da aplicação Markl
+Teste Automatizado da aplicação MarkL realizado com Cypress
